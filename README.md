@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This project is a clone of Netflix's web interface built using React.js, Firebase for authentication, and The Movie Database (TMDB) API for fetching movie data.
+This project is a clone of Netflix's web interface built using React.js, Tailwind CSS, Firebase for authentication, and The Movie Database (TMDB) API for fetching movie data.
 
 ## Table of Contents
 
