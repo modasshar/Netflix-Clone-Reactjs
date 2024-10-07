@@ -50,7 +50,7 @@ This project is a clone of Netflix's web interface built using React.js, Tailwin
 ### UI After Sign In
 ![Screenshot (13)](https://github.com/user-attachments/assets/d50e666d-1f86-4a00-90a0-18615e9d5a4e)
 
-### My Shows Page
+### My Saved Shows Page
 ![Screenshot (14)](https://github.com/user-attachments/assets/bb8fd420-7446-45ca-a03b-b44854d88284)
 
 ### Firebase Users Data 
